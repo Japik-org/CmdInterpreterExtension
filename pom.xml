@@ -6,14 +6,13 @@
 
     <groupId>com.pro100kryto.server.extensions</groupId>
     <artifactId>CmdInterpreterExtension</artifactId>
-    <version>0.1</version>
+    <version>1.0.0</version>
 
     <dependencies>
         <dependency>
             <groupId>com.pro100kryto.server</groupId>
             <artifactId>Server</artifactId>
-            <scope>provided</scope>
-            <version>[0.1, 0.2)</version>
+            <version>[0.1, 0.3)</version>
         </dependency>
     </dependencies>
 
